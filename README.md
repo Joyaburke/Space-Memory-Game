@@ -1,6 +1,6 @@
 # Space Themed Memory Game
 
-This game is created after the childhood favorite memory card game.
+This game is created after the childhood memory card game (my personal favorite).
 <br />
 <br /> 
 
@@ -23,6 +23,15 @@ If they don't match, you try again.
 <br />
 <br /> 
 ![image](https://github.com/Joyaburke/Space-Memory-Game/assets/130799658/22f6bdbc-cfb3-4d15-97d7-4f08b065d98f)
+
+## My Contribution and What I Learned
+
+I made the game start to finish following a tutorial. Not original, but since I was fresh from learning my skills, I needed some direction on what to do with them. I found coming up with something out of thin air was difficult after gleaning so much from classes. This was a fun way to implement what I'd learned and see positive results! 
+
+The key takeaways for me with this project:
+- The satisifaction of following a tutorial and not getting errors like had happenend so often in the past
+- Customizing it to the way I liked and still not getting errors
+- Interesting things can be done with simple and clean code
 
 
 ## Installation
